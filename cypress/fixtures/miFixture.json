@@ -1,0 +1,14 @@
+{
+        "login": {
+            "usuario": "pushingit",
+            "contrasena": "123456!"
+        },
+        "tareas": {
+            "t1": "Tarea 1",
+            "t2": "Tarea 2",
+            "t3": "Tarea 3",
+            "t4": "Tarea 4",
+            "t5": "Tarea 5"
+        }
+  
+}
